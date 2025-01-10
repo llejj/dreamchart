@@ -2,4 +2,7 @@
 .env
 
 # virtual environment
-.dreamstruct/
+.dreamchart/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
